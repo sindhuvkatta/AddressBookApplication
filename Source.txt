@@ -1,0 +1,4 @@
+Firstname	Tel	Cell	Email
+John	+27862245621	+27862245621	john@gmail.com	
+Peter	+27780943675	+27780943675	peter@yahoo.com
+Sam	+27843367412	+27843367412	sam85@gmail.com
